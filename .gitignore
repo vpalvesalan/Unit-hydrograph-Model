@@ -2,4 +2,4 @@ venv/
 data/
 __pycache__/ 
 *.pyc
-.DS_Store # Ignore Mac OS X system files and metadata
+*.DS_Store
