@@ -20,7 +20,9 @@ Shapefiles were used to represent boundaries, stream gauge locations, and precip
     - **Source**: Downloaded from the [US Census Bureau TIGER/Line Shapefiles collection](https://www.census.gov/cgi-bin/geo/shapefiles/index.php?year=2024&layergroup=States+%28and+equivalent%29).  
     - **Format:** `.shp`  
     - **Purpose:** Visualize state boundaries within the region of study.  
-    - **Relevant Attributes:** [Provide specific Relevant Attributes here]  
+    - **Relevant Attributes:** [`NAME`: State name]
+    - **Documentation**: [Available here](https://www2.census.gov/geo/pdfs/maps-data/data/tiger/tgrshp2024/TGRSHP2024_TechDoc.pdf)
+
   - **Counties:**
     - **Source**: Downloaded from the [US Census Bureau TIGER/Line Shapefiles collection](https://www.census.gov/cgi-bin/geo/shapefiles/index.php?year=2024&layergroup=Counties+%28and+equivalent%29).  
     - **Format:** `.shp`  
